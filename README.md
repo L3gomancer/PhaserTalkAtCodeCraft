@@ -1,6 +1,6 @@
 
 # My talk on Phaser
-(My slides)[https://slides.com/jimb0b/deck-1]  
+[My slides](https://slides.com/jimb0b/deck-1)  
 Delivered at the (First Time Speakers Event)[https://www.codecraftuk.org/events/2018/08/FirstTimeSpeakers] by CodeCraft at Skyscanner on 16/8/18  
 
 Resources:  
