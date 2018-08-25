@@ -2,32 +2,6 @@
 [My slides](https://slides.com/jimb0b/deck-1)  
 Delivered at the [First Time Speakers Event](https://www.codecraftuk.org/events/2018/08/FirstTimeSpeakers) by CodeCraft at Skyscanner on 16/8/18  
 
-Resources:  
-The Phaser core can be forked [on GitHub](https://github.com/photonstorm/phaser) and modified  
-And [Phaser 2](https://github.com/photonstorm/phaser-ce)   
-http://phaser.io/
-Phaser on [Wikipedia](https://en.wikipedia.org/wiki/Phaser_game_framework])  
-A little bit of [history](http://phaser.io/phaser3/history)  
-Steve Jobs’ [‘Thoughts On Flash’](https://www.apple.com/hotnews/thoughts-on-flash/) blog post  
-And [thoughts on those Thoughts](https://www.kirupa.com/kirupa_dot_com_not_dead_simply_napping.htm) from Kirupa [a once-popular site for Flash tutorials]  
-
-[ImageMagick](http://www.imagemagick.org/) a command line image editing tool  
-My [brief guide](https://github.com/L3gomancer/ImageMagickQuickGuide) to ImageMagick  
-[Tiled](https://www.mapeditor.org/) lets you ‘draw’ with repeating tiles and spits out JSON  
-
-Phaser Games:  
-[Road Of Fury: Desert Strike](http://gamedistribution.com/games/road-of-fury-desert-strike)  
-[Meiji](https://l3gomancer.github.io/meije/)  
-My fork of the [Mario demo](https://l3gomancer.github.io/PhaserDudeMarioExample/)  
-And the [particle demo](https://l3gomancer.github.io/PhasParticle/)  
-
-Some Non-Phaser Web Games I Like:  
-[A Grain Of Truth](http://www.rudowscy.com/agot/) adventure  
-[Browser Quest](https://browserquest.mozilla.org) 2D mutliplayer with WebSockets  
-[A Dark Room](https://adarkroom.doublespeakgames.com)  
-[slither.io](https://slither.io)  
-[agar.io](https://agar.io)  
-
 
 Talk Content:  
 [slide 1]  
@@ -121,3 +95,31 @@ In conclusion I hope you can use this to make something you are proud of. Almost
 Which is daft if you ask me. Everybody knows he’s a PC gamer  
 
 [Another GCC plug. You’re welcome ;) ]  
+
+
+
+Resources:  
+The Phaser core can be forked [on GitHub](https://github.com/photonstorm/phaser) and modified  
+And [Phaser 2](https://github.com/photonstorm/phaser-ce)   
+http://phaser.io/
+Phaser on [Wikipedia](https://en.wikipedia.org/wiki/Phaser_game_framework])  
+A little bit of [history](http://phaser.io/phaser3/history)  
+Steve Jobs’ [‘Thoughts On Flash’](https://www.apple.com/hotnews/thoughts-on-flash/) blog post  
+And [thoughts on those Thoughts](https://www.kirupa.com/kirupa_dot_com_not_dead_simply_napping.htm) from Kirupa [a once-popular site for Flash tutorials]  
+
+[ImageMagick](http://www.imagemagick.org/) a command line image editing tool  
+My [brief guide](https://github.com/L3gomancer/ImageMagickQuickGuide) to ImageMagick  
+[Tiled](https://www.mapeditor.org/) lets you ‘draw’ with repeating tiles and spits out JSON  
+
+Phaser Games:  
+[Road Of Fury: Desert Strike](http://gamedistribution.com/games/road-of-fury-desert-strike)  
+[Meiji](https://l3gomancer.github.io/meije/)  
+My fork of the [Mario demo](https://l3gomancer.github.io/PhaserDudeMarioExample/)  
+And the [particle demo](https://l3gomancer.github.io/PhasParticle/)  
+
+Some Non-Phaser Web Games I Like:  
+[A Grain Of Truth](http://www.rudowscy.com/agot/) adventure  
+[Browser Quest](https://browserquest.mozilla.org) 2D mutliplayer with WebSockets  
+[A Dark Room](https://adarkroom.doublespeakgames.com)  
+[slither.io](https://slither.io)  
+[agar.io](https://agar.io)  
